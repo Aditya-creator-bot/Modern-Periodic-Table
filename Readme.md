@@ -3,11 +3,10 @@ This is a web project created to access various element on periodic table using 
 
 # Repo Stats
 
-![Github Contributers](https://img.shields.io/github/contributers/Aditya-creator-bot/Modern-Periodic-Table?color=brightgreen&label=contributers)
-
+![GitHub contributors](https://img.shields.io/github/contributors/Aditya-creator-bot/Modern-Periodic-Table?color=brightgreen)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/Aditya-creator-bot/Modern-Periodic-Table?color=brightgreen&label=issues)
-
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr/Aditya-creator-bot/Modern-Periodic-Table?color=brightgreen&label=pull%request)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr/Aditya-creator-bot/Modern-Periodic-Table?color=brightgreen&label=pull%20request)
+![GitHub commit merge status](https://img.shields.io/github/commit-status/Aditya-creator-bot/Modern-Periodic-Table/master/3592e8889fdf56ed7a92fff0c7dd6c0e9270196c)
 
 # Motivation
 
