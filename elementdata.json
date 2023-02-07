@@ -1,0 +1,44 @@
+{
+    "elements": [
+        {
+            "atomicno": 1,
+            "atomicmass": 1.00784,
+            "sym" : "H",
+            "element_name": "Hydrogen",
+            "latinname": "Hydrogen",
+            "valency": 1
+        },
+        {
+            "atomicno": 2,
+            "atomicmass": 1,
+            "sym" : "He",
+            "element_name": "Helium",
+            "latinname": "Helium",
+            "valency": 0
+        },
+        {
+            "atomicno": 3,
+            "atomicmass": 6.941,
+            "sym" : "Li",
+            "element_name": "Lithium",
+            "latinname": "Hydrogen",
+            "valency": 1
+        },
+        {
+            "atomicno": 4,
+            "atomicmass": 9.012182,
+            "sym" : "Be",
+            "element_name": "Bereyllium",
+            "latinname": "Hydrogen",
+            "valency": 2
+        },
+        {
+            "atomicno": 5,
+            "atomicmass": 10.811,
+            "sym" : "B",
+            "element_name": "Boron",
+            "latinname": "Hydrogen",
+            "valency": 3
+        }
+    ]
+}
